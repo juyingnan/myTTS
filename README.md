@@ -30,4 +30,8 @@ pip install f5-tts
 pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu124
 ```
 
-Requires [ffmpeg](https://ffmpeg.org/) for audio conversion.
+Install [ffmpeg](https://ffmpeg.org/) for audio conversion:
+
+```bash
+winget install ffmpeg
+```
