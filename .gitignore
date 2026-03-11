@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+*.egg
+
+# Audio & text outputs
+*.wav
+*.txt
+
+# Misc
+*.m4a
+*.mp3
+.env
